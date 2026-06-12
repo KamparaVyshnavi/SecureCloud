@@ -1,0 +1,30 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# MongoDB
+data/
+
+# Generated RSA Keys
+backend/services/id_rsa_priv.pem
+backend/services/id_rsa_pub.pem
