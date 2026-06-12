@@ -56,7 +56,7 @@ the cloud infrastructure and prevent any attacks.
 *** -->
 
 
-# SecuriCash 🔐
+# SecureCash 🔐
 
 💰 Initially, banks were considered the economic middle channel only to lend money and accept deposits from the population. But, with the implementation of privatisation and globalisation policy, the banking sector has been rapidly adopting advanced technologies. Maintaining millions of transactions daily involves a great deal of data. This data needs to be accessible to all branches around the clock. Cloud Computing is the most convenient way to provide on-demand access to a shared pool of computational resources over the network. Therefore, banks are moving towards Cloud Computing.
 
@@ -89,7 +89,7 @@ the cloud infrastructure and prevent any attacks.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/KamparaVyshnavi/SecureCloud.git
 cd Secure-Cash
 ```
 
